@@ -1,4 +1,4 @@
-# Hi, I'm Nora El-Fettouchi 👋
+# Hi, I'm Nora 
 
 ### 🎓 Engineering Student in Data Science & Cloud Computing | Aspiring Data Engineer
 
