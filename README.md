@@ -71,7 +71,7 @@ I'm always interested in learning, collaborating and working on meaningful data 
 * 💻 GitHub: [Explore my repositories](https://github.com/NORAel-fettouchi)
 
 *Thanks for visiting my profile! ⭐*
-## Hi there 👋
+
 
 <!--
 **NORAel-fettouchi/NORAel-fettouchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
